@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 4,
+      "description": "For all mah playaz whoz ass wanna drop a rhyme mah language"
+   },
+   "language": {
+      "US_HOOD": {
+         "name": "African-American Vernacular English",
+         "region": "Tha hood",
+         "bidirectional": false
+      }
+   }
+}

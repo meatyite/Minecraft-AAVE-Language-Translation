@@ -1,0 +1,428 @@
+[C]Â§f============
+[C]Â§eMinecraft Crew
+[C]Â§f============
+
+Â§7Original Gangsta Creator
+Â§f          Markus Persson
+
+Â§7Chief Creatizzle Officer
+Â§f          Jens Bergensten
+
+Â§7Producers
+Â§f          Adrian Ã-stergÃ¥rd
+Â§f          Dejan Dimic
+Â§f          Fredrik Telenius
+Â§f          Isabella Arningsmark
+
+Â§7Lead Engineer
+Â§f          Nathan Adams
+
+Â§7Game Developers
+Â§f          Agnes Larsson
+Â§f          Bartoss Bok
+Â§f          Cory Scheviak
+Â§f          Erik Broes
+Â§f          Georgii Gavrichev
+Â§f          Josh Letellier
+Â§f          Maria LemÃ³n
+Â§f          Mike Stoyke
+Â§f          Thomas GuimbretiÃ¨re
+
+Â§7Launcher Tech Lead
+Â§f          Mikael Hedberg
+
+Â§7Launcher Developers
+Â§f          Petr MrÃ¡zek
+
+Â§7Realms Tech Lead
+Â§f          Alexander Torstling
+
+Â§7Realms Developers
+Â§f          Alexandre Pretto Nunes
+Â§f          Alexander Ã-stman
+Â§f          Bizzley SjÃ¶berg
+Â§f          Brian Threvathan
+Â§f          Christoffer HammarstrÃ¶m
+Â§f          Erik Bylund
+Â§f          Hennin Erlandsen
+Â§f          Magnus JÃ¤derberg
+Â§f          MÃ¡rcio Oliveira
+Â§f          Niclas Unnervik
+Â§f          Sina Tamanna
+Â§f          Tomas Alaeus
+
+Â§7Minecraft Content Lead
+Â§f          Marc Watson
+
+Â§7Minecraft Content Coordinator
+Â§f          Adam Martinsson
+Â§f          Matthew Dryden
+Â§f          Oskar Thysell
+Â§f          Sara LempiÃ¤inen
+
+Â§7Art Directors
+Â§f          Johan Aronsson
+Â§f          Markus Toivonen
+Â§f          Martin Johansson
+Â§f          Ninni Landin
+
+Â§7Graphics Artists
+Â§f          Jasper Boerstra
+Â§f          Mattis Grahm
+
+Â§7User Experience Design
+Â§f          Lil' Willy Ekman
+Â§f          Oscar Nilsson
+
+Â§7Lead User Experience Developers
+Â§f          Sebastian Hindefelt
+Â§f          Paulo Ragonha
+
+Â§7User Experience Developers
+Â§f          Albin Odervall
+Â§f          Anna PÃ¤Ã¤rni
+Â§f          Dario Vodopivec
+Â§f          Emelie SidesiÃ¶
+Â§f          Mike NovÃ©n
+Â§f          Oleg Kozitsyn
+
+Â§7Lead Sound Designer
+Â§f          Samuel Ãberg
+
+Â§7Sound Design
+Â§f          Daniel Rosenfeld
+Â§f          Kevin Martinez
+Â§f          Peta Hont
+
+Â§7Music composed by
+Â§f          Daniel Rosenfeld
+
+Â§7Writing
+Â§f          Julian Gough
+
+Â§7Developerz of Moâ Creatures
+Â§f          Don Juan Roque
+Â§f          Jizzy Olarte (DrZhark)
+Â§f          Kent Christian Jensen
+
+[C]Â§f========
+[C]Â§eMojang
+[C]Â§f========
+
+Â§7Chief Executizzle Officer
+Â§f          Jonas MÃ¥rtensson
+
+Â§7Chief Operations Officer
+Â§f          Ulrika HÃ¶jgÃ¥rd
+
+Â§7Chief Technologizzle Officer
+Â§f          Mike Carlson
+
+Â§7Chief Brand Officer
+Â§f          Lydia Winters
+
+Â§7Chief Content Officer
+Â§f          Vu Bui
+
+Â§7Human Resources
+Â§f          Maja Samuelsson
+Â§f          Viktoria Petersson
+
+Â§7Director of Finance
+Â§f          Marina Kostesic
+
+Â§7Director of New Games
+Â§f          Patrick Liu
+
+Â§7Game Director
+Â§f          MÃ¥ns Olson
+
+Â§7Game Designers
+Â§f          Christian Berg
+Â§f          Max Herngren
+
+Â§7Lead Game Developers
+Â§f          Kristoffer Jelbring
+Â§f          Niklas BÃ¶restam
+
+Â§7Game Developers
+Â§f          Adrian Toncean
+Â§f          Anton Arbring
+Â§f          Aron Nieminen
+Â§f          Christan Berg
+Â§f          Daniel Wustenhoff
+Â§f          Jakob RydÃ©n
+Â§f          Jizzle Maiga
+Â§f          MÃ¥rten Helander
+
+Â§7Art Leads
+Â§f          Daniel BjÃ¶rkefors
+Â§f          Telemachus Stavropoulos
+
+Â§7Graphic Designers
+Â§f          Wiktor Persson
+Â§f          Markus Karlsson
+
+Â§73D/VFX
+Â§f          Christian Nordgren
+Â§f          Jakob Gavelli
+
+Â§7Lead System Engineers
+Â§f          Jifeng Zhang
+Â§f          Robert SjÃ¶dahl
+Â§f          TorbjÃ¶rn Allard
+
+Â§7System Developers
+Â§f          Andaz Martini
+Â§f          Maksim Ivanov
+Â§f          Maria Katsourani
+Â§f          Mikael Malmqvist
+Â§f          Joakim Ejenstam
+Â§f          Jonas BergstrÃ¶m
+Â§f          Petta Gisslen
+Â§f          PÃ¤r Axelsson
+Â§f          Stefan Torstensson
+Â§f          Wenlan Yang
+
+Â§7Experience Design
+Â§f          Daniel Feldt
+
+Â§7Director of Businizz Development
+Â§f          Patrick Geuder
+
+Â§7Production Director
+Â§f          Olof Carlson Sandvik
+
+Â§7Head of Creatizzle Production
+Â§f          Sheila Ho
+
+Â§7Production Manager
+Â§f 			Klas HammarstrÃ¶m
+
+Â§7Producers
+Â§f          Adele Major
+Â§f          Dizzy Nisshagen
+Â§f          Hampus Nilsson
+Â§f          Johannes Fridd
+Â§f          Kaya Hatcher
+Â§f          Lisa Kempe
+Â§f          Moira Ingeltun
+Â§f          Nicolette Suraga
+Â§f          Sarah Carton
+Â§f          Sebastian Falk
+Â§f          Ãsa SkogstrÃ¶m
+
+Â§7Project Managers
+Â§f          Isabella Balk
+
+Â§7Director of Creatizzle Communications
+Â§f          Owen Jones
+
+Â§7Head of Marketin Communications
+Â§f          Thomas Wiborgh
+
+Â§7Creatizzle Communications Assistant
+Â§f          Per Landin
+Â§f          Tomothy Stone
+
+Â§7Head of Communitizzle Relations
+Â§f          Karim WalldÃ©n
+
+Â§7Communitizzle Relations Coordinator
+Â§f          Josefin Olsson
+
+Â§7Head of Ghetto Media
+Â§f          Alice LÃ¶fgren
+
+Â§7Hustla Support Crew Lead
+Â§f          Mattias Victorin
+
+Â§7Hustla Support
+Â§f          Anna Lundgren
+Â§f          Andreas Thomasson
+Â§f          Antonia Kousathana
+Â§f          Cecilia FlumÃ©
+Â§f          Cim Borg
+Â§f          Dizzy Stuart Dahlgren
+Â§f          Ellie Ashrafi
+Â§f          Fredrik SandstrÃ¶m
+Â§f          Freja Fors
+Â§f          Jonny Hair
+Â§f          Nasim Derakhshan
+Â§f          Nima Tolouifar
+Â§f          Patrik SÃ¶dergren
+Â§f          Rui Ribeiro
+Â§f          Sarah MÃ¥rtensson
+
+Â§7Office Manager
+Â§f          Siri Hoel Andersson
+
+Â§7Office Coordinators
+Â§f          Aleksandra Zajac
+Â§f          JoÃ«l Ãlveroth
+
+Â§7Reception Manager
+Â§f          Chaimae Truving
+
+Â§7Financial Accountant
+Â§f          Josefina Axelsson
+
+Â§7IT Wizards
+Â§f          Cesar Sima Falck
+Â§f          Shoghi Cervantes
+
+Â§7Product Designer Crew Lead
+Â§f          Amanda StrÃ¶m
+
+Â§7Product Designers
+Â§f          Filip Thoms
+Â§f          Jizzifer Hammervald
+Â§f          Sherin Kwan
+
+Â§7Motion Graphics Designer
+Â§f          Kim Petersen
+
+Â§7Intellectual Property Enforcement Crew Lead
+Â§f          Olle Personne
+
+Â§7Intellectual Property Enforcement Agents
+Â§f          Mathias Andersson
+Â§f          Matilda Ãkerman
+Â§f          Marcus Forss
+Â§f          Sylvia Chen
+Â§f          Johan Hedlund
+
+[C]Â§f===========
+[C]Â§eMojang Alumni
+[C]Â§f===========
+
+Â§7Chief Executizzle Officers
+Â§f          Carl Manneh
+
+Â§7Chief Finizzle Officer
+Â§f          Karin Severinson
+
+Â§7Chief Technologizzle Officer
+Â§f          Rikard Herlitz
+
+Â§7Project Directors
+Â§f          Jakob PorsÃ©r
+
+Â§7Production Director
+Â§f          Daniel Kaplan
+
+Â§7Game Director
+Â§f          Henrik Pettersson
+
+Â§7Producers
+Â§7 			Marie StÃ¥lkrantz
+
+Â§7Assistant Producers
+Â§f          Warren Loo
+
+Â§7Game Developers
+Â§f          Christian Westman
+Â§f          Daniel Frisk
+Â§f          Isaac de la Vega
+Â§f          Jakob Pogulis
+Â§f          Johan Bernhardsson
+Â§f          Magnus Bentling
+Â§f          Markus Arvidsson
+Â§f          Nathan Gilbert
+Â§f          Ryan Holtz
+Â§f          Tobias MÃ¶llstam
+
+Â§73D/VFX
+Â§f          Elin Ã-lund Forsling
+
+Â§7User Experience Design Director
+Â§f          Tobias Ahlin
+
+Â§7Additionizzle Programming
+Â§f          Elliot 'Hippoplatimus' Segal
+Â§f          Pizzle Spooner
+Â§f          Ryan 'Scaevolus' Hitchman
+
+Â§7Lead System Engineers
+Â§f          Tomothy Miles
+Â§f          Tomas Sommar
+
+Â§7System Developers
+Â§f          Leonard Gram
+Â§f          Martin Odhelius
+
+Â§7Realms Developers
+Â§f          Amir Moulavi
+Â§f          Dizzy Marby
+Â§f          Jizzy SjÃ¶Ã¶
+Â§f          Mats Henricson
+Â§f          Philip Vieira
+
+Â§7Graphics Artists
+Â§f          Kristoffer Zetterstrand
+Â§f          Poi Poi Chen
+
+Â§7Head of Ghetto Media
+Â§f          Amelia Dale
+
+Â§7Merchandise Art Director
+Â§f          Alexis Holmqvist
+
+Â§7Additionizzle Graphics
+Â§f          Jonatan PÃ¶ljÃ¶
+Â§f          Mariana Graham Ramirez
+
+Â§7Creatizzle Communications Manager
+Â§f          Martin Davies
+
+Â§7Creatizzle Communications Assistant
+Â§f          Emily Richardson
+
+Â§7Businizz Intelligence
+Â§f          BrynjÃ³lfur Erlingsson
+
+Â§7Hustla Support
+Â§f          Amelia Lindroth Henriksson
+Â§f          Ana Barata Martins
+Â§f          Andreas Andersson
+Â§f          Andreas JÃ¶rgensen
+Â§f          Angehlica Walling
+Â§f          Annika Tripke-Lund
+Â§f          Anton Albiin
+Â§f          Carl Johnsson
+Â§f          Dante Stjernberg
+Â§f          Dizzy Carlsson
+Â§f          Elin Frykholm
+Â§f          Eliza Hearsum
+Â§f          Erik Nordberg
+Â§f          Fredrik Henriksson
+Â§f          Henrik Davallius
+Â§f          Henry Shi
+Â§f          Joe Liu
+Â§f          Kevin Vesterlund
+Â§f          Mike Till
+Â§f          Nicole Jansson
+Â§f          Rabi Hadad
+Â§f          Robert Miskiewicz
+Â§f          Robin Cocks
+Â§f          Robin ThunstrÃ¶m
+Â§f          Theodor Colbing
+
+Â§7Office Managers
+Â§f          Alex Andersson
+Â§f          Charlotte WredesjÃ¶
+Â§f          Jill Curran
+Â§f          Linn Hultman
+Â§f          Mikaela Prim
+
+[C]Â§f============
+[C]Â§eSpecial Thanks
+[C]Â§f============
+Â§f          Daniel Brynolf
+Â§f          Pontus Hammarberg
+
+
+
+
+
+Â§f"Twenty muthafuckin years from now yo big-ass booty is ghon be mo' pissed tha fuck off by tha thangs dat you didn't do than by tha ones you did do. Right back up in yo muthafuckin ass. So throw off tha bowlines. Right back up in yo muthafuckin ass. Sail away from tha safe harbor. Shiiit, dis aint no joke. Catch tha trade windz up in yo' sails. Explore. Dream. Discover." Â§7- Unknown
